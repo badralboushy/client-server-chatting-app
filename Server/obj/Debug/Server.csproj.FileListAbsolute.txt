@@ -1,0 +1,42 @@
+C:\Users\Abbas\source\repos\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Abbas\source\repos\Server\Server\bin\Debug\Server.exe
+C:\Users\Abbas\source\repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\Abbas\source\repos\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Abbas\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Abbas\source\repos\Server\Server\obj\Debug\Server.exe
+C:\Users\Abbas\source\repos\Server\Server\obj\Debug\Server.pdb
+D:\Education-Hiast\Network Programming\SocketsProgramming\Server\bin\Debug\Server.exe.config
+D:\Education-Hiast\Network Programming\SocketsProgramming\Server\bin\Debug\Server.exe
+D:\Education-Hiast\Network Programming\SocketsProgramming\Server\bin\Debug\Server.pdb
+D:\Education-Hiast\Network Programming\SocketsProgramming\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Education-Hiast\Network Programming\SocketsProgramming\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Education-Hiast\Network Programming\SocketsProgramming\Server\obj\Debug\Server.exe
+D:\Education-Hiast\Network Programming\SocketsProgramming\Server\obj\Debug\Server.pdb
+D:\Courses\second term\abbbbbas\ربيع\networks programming\2-Sockets\Threading-SocketsProgramming\Server\bin\Debug\Server.exe.config
+D:\Courses\second term\abbbbbas\ربيع\networks programming\2-Sockets\Threading-SocketsProgramming\Server\bin\Debug\Server.exe
+D:\Courses\second term\abbbbbas\ربيع\networks programming\2-Sockets\Threading-SocketsProgramming\Server\bin\Debug\Server.pdb
+D:\Courses\second term\abbbbbas\ربيع\networks programming\2-Sockets\Threading-SocketsProgramming\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Courses\second term\abbbbbas\ربيع\networks programming\2-Sockets\Threading-SocketsProgramming\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Courses\second term\abbbbbas\ربيع\networks programming\2-Sockets\Threading-SocketsProgramming\Server\obj\Debug\Server.exe
+D:\Courses\second term\abbbbbas\ربيع\networks programming\2-Sockets\Threading-SocketsProgramming\Server\obj\Debug\Server.pdb
+C:\Users\Nasca\Desktop\Sockets\Socket\Server\bin\Debug\Server.exe.config
+C:\Users\Nasca\Desktop\Sockets\Socket\Server\bin\Debug\Server.exe
+C:\Users\Nasca\Desktop\Sockets\Socket\Server\bin\Debug\Server.pdb
+C:\Users\Nasca\Desktop\Sockets\Socket\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Nasca\Desktop\Sockets\Socket\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Nasca\Desktop\Sockets\Socket\Server\obj\Debug\Server.exe
+C:\Users\Nasca\Desktop\Sockets\Socket\Server\obj\Debug\Server.pdb
+E:\stuff\4th year\third trimester\networking applications programming\Socket\Server\bin\Debug\Server.exe.config
+E:\stuff\4th year\third trimester\networking applications programming\Socket\Server\bin\Debug\Server.exe
+E:\stuff\4th year\third trimester\networking applications programming\Socket\Server\bin\Debug\Server.pdb
+E:\stuff\4th year\third trimester\networking applications programming\Socket\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\stuff\4th year\third trimester\networking applications programming\Socket\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\stuff\4th year\third trimester\networking applications programming\Socket\Server\obj\Debug\Server.exe
+E:\stuff\4th year\third trimester\networking applications programming\Socket\Server\obj\Debug\Server.pdb
+G:\Socket\Server\bin\Debug\Server.exe.config
+G:\Socket\Server\bin\Debug\Server.exe
+G:\Socket\Server\bin\Debug\Server.pdb
+G:\Socket\Server\obj\Debug\Server.csprojAssemblyReference.cache
+G:\Socket\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+G:\Socket\Server\obj\Debug\Server.exe
+G:\Socket\Server\obj\Debug\Server.pdb

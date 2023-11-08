@@ -1,0 +1,42 @@
+C:\Users\Abbas\source\repos\Server\Client\bin\Debug\Client.exe.config
+C:\Users\Abbas\source\repos\Server\Client\bin\Debug\Client.exe
+C:\Users\Abbas\source\repos\Server\Client\bin\Debug\Client.pdb
+C:\Users\Abbas\source\repos\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Abbas\source\repos\Server\Client\obj\Debug\Client.exe
+C:\Users\Abbas\source\repos\Server\Client\obj\Debug\Client.pdb
+C:\Users\Abbas\source\repos\Server\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Education-Hiast\Network Programming\SocketsProgramming\Client\bin\Debug\Client.exe.config
+D:\Education-Hiast\Network Programming\SocketsProgramming\Client\bin\Debug\Client.exe
+D:\Education-Hiast\Network Programming\SocketsProgramming\Client\bin\Debug\Client.pdb
+D:\Education-Hiast\Network Programming\SocketsProgramming\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Education-Hiast\Network Programming\SocketsProgramming\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Education-Hiast\Network Programming\SocketsProgramming\Client\obj\Debug\Client.exe
+D:\Education-Hiast\Network Programming\SocketsProgramming\Client\obj\Debug\Client.pdb
+D:\Courses\second term\abbbbbas\ربيع\networks programming\2-Sockets\Threading-SocketsProgramming\Client\bin\Debug\Client.exe.config
+D:\Courses\second term\abbbbbas\ربيع\networks programming\2-Sockets\Threading-SocketsProgramming\Client\bin\Debug\Client.exe
+D:\Courses\second term\abbbbbas\ربيع\networks programming\2-Sockets\Threading-SocketsProgramming\Client\bin\Debug\Client.pdb
+D:\Courses\second term\abbbbbas\ربيع\networks programming\2-Sockets\Threading-SocketsProgramming\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Courses\second term\abbbbbas\ربيع\networks programming\2-Sockets\Threading-SocketsProgramming\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Courses\second term\abbbbbas\ربيع\networks programming\2-Sockets\Threading-SocketsProgramming\Client\obj\Debug\Client.exe
+D:\Courses\second term\abbbbbas\ربيع\networks programming\2-Sockets\Threading-SocketsProgramming\Client\obj\Debug\Client.pdb
+C:\Users\Nasca\Desktop\Sockets\Socket\Client\bin\Debug\Client.exe.config
+C:\Users\Nasca\Desktop\Sockets\Socket\Client\bin\Debug\Client.exe
+C:\Users\Nasca\Desktop\Sockets\Socket\Client\bin\Debug\Client.pdb
+C:\Users\Nasca\Desktop\Sockets\Socket\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Nasca\Desktop\Sockets\Socket\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Nasca\Desktop\Sockets\Socket\Client\obj\Debug\Client.exe
+C:\Users\Nasca\Desktop\Sockets\Socket\Client\obj\Debug\Client.pdb
+E:\stuff\4th year\third trimester\networking applications programming\Socket\Client\bin\Debug\Client.exe.config
+E:\stuff\4th year\third trimester\networking applications programming\Socket\Client\bin\Debug\Client.exe
+E:\stuff\4th year\third trimester\networking applications programming\Socket\Client\bin\Debug\Client.pdb
+E:\stuff\4th year\third trimester\networking applications programming\Socket\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\stuff\4th year\third trimester\networking applications programming\Socket\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\stuff\4th year\third trimester\networking applications programming\Socket\Client\obj\Debug\Client.exe
+E:\stuff\4th year\third trimester\networking applications programming\Socket\Client\obj\Debug\Client.pdb
+G:\Socket\Client\bin\Debug\Client.exe.config
+G:\Socket\Client\bin\Debug\Client.exe
+G:\Socket\Client\bin\Debug\Client.pdb
+G:\Socket\Client\obj\Debug\Client.csprojAssemblyReference.cache
+G:\Socket\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+G:\Socket\Client\obj\Debug\Client.exe
+G:\Socket\Client\obj\Debug\Client.pdb
